@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 7995b9e7c164b0f45bdca5fd44e8cc3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Speedometer
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 128
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Speedometer
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.0513167
+        width: 128
+        height: 121.87257
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50010175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.000004, y: -60.9876}
+        - {x: -64, y: -56.9876}
+        - {x: -64, y: 35.0124}
+        - {x: -54.000004, y: 61.0124}
+        - {x: 35, y: 61.0124}
+        - {x: 64, y: 32.0124}
+        - {x: 64, y: -59.987602}
+        - {x: 58.999996, y: -60.9876}
+      physicsShape:
+      - - {x: 62, y: 7.0124016}
+        - {x: 58.999996, y: 20.0124}
+        - {x: 51, y: 35.0124}
+        - {x: 24, y: 58.0124}
+        - {x: -18, y: 58.0124}
+        - {x: -41, y: 47.0124}
+        - {x: -52.999996, y: 32.0124}
+        - {x: -61, y: 16.012402}
+        - {x: -62, y: 6.0124016}
+        - {x: -62, y: -19.987597}
+        - {x: -59.999996, y: -28.987598}
+        - {x: -44, y: -50.9876}
+        - {x: -32, y: -57.9876}
+        - {x: 29.999998, y: -57.9876}
+        - {x: 35, y: -55.9876}
+        - {x: 51, y: -43.9876}
+        - {x: 62, y: -20.987598}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a01a8ee851426792a56b5a5472272e
+      internalID: 21300000
+      vertices:
+      - {x: 128, y: 96}
+      - {x: 123, y: 3}
+      - {x: 128, y: 3.9999962}
+      - {x: 99, y: 125}
+      - {x: 9.999996, y: 125}
+      - {x: 3.9999962, y: 3}
+      - {x: 0, y: 99}
+      - {x: 0, y: 7}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Speedometer: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

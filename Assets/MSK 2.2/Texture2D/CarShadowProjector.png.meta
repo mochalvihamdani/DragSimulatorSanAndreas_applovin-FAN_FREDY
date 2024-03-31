@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 48fecc02a727481499d8a9731c0237cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CarShadowProjector
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 53
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarShadowProjector
+      rect:
+        serializedVersion: 2
+        x: 129.07613
+        y: 87.07612
+        width: 253.84776
+        height: 351.84778
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.48010504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125.00001, y: -137}
+        - {x: -127.00001, y: -126.00001}
+        - {x: -127.00001, y: -78}
+        - {x: -113.00001, y: -20}
+        - {x: -114.00001, y: 8.000001}
+        - {x: -127.00001, y: 61}
+        - {x: -127.00001, y: 87}
+        - {x: -121.00001, y: 116}
+        - {x: -115.00001, y: 141}
+        - {x: -103.00001, y: 161}
+        - {x: -45.000008, y: 176}
+        - {x: 40.999992, y: 176}
+        - {x: 74.99999, y: 169}
+        - {x: 95.99999, y: 163}
+        - {x: 110.99999, y: 148}
+        - {x: 126.99999, y: 93}
+        - {x: 126.99999, y: 56}
+        - {x: 112.99999, y: 9}
+        - {x: 112.99999, y: -21}
+        - {x: 126.99999, y: -81}
+        - {x: 126.99999, y: -132}
+        - {x: 115.99999, y: -150}
+        - {x: 111.99999, y: -156}
+        - {x: 81.99999, y: -170}
+        - {x: 36.999992, y: -175}
+        - {x: 12.999992, y: -176}
+        - {x: -20.000008, y: -176}
+        - {x: -46.000008, y: -174}
+        - {x: -92.00001, y: -166}
+        - {x: -112.00001, y: -155}
+      physicsShape:
+      - - {x: 73.99999, y: -101}
+        - {x: 71.99999, y: -86.99999}
+        - {x: 65.99999, y: -60.999996}
+        - {x: 62.999992, y: -26}
+        - {x: 61.999992, y: 1}
+        - {x: 62.999992, y: 2}
+        - {x: 68.99999, y: 51}
+        - {x: 70.99999, y: 63}
+        - {x: 74.99999, y: 81}
+        - {x: 74.99999, y: 89}
+        - {x: 72.999985, y: 95}
+        - {x: 57.999992, y: 116}
+        - {x: 42.99999, y: 124}
+        - {x: 31.999992, y: 125}
+        - {x: 17.999992, y: 126.999985}
+        - {x: -19.000008, y: 126.999985}
+        - {x: -32.000008, y: 125}
+        - {x: -42.000008, y: 123}
+        - {x: -58.000008, y: 116}
+        - {x: -64.00001, y: 108}
+        - {x: -72.00001, y: 95}
+        - {x: -75.00001, y: 89}
+        - {x: -75.00001, y: 81}
+        - {x: -68.00001, y: 35.999996}
+        - {x: -63.000008, y: 2}
+        - {x: -62.000008, y: -25}
+        - {x: -63.000008, y: -26}
+        - {x: -68.00001, y: -79}
+        - {x: -69.00001, y: -79}
+        - {x: -74.00001, y: -98.99999}
+        - {x: -73, y: -108}
+        - {x: -58.000008, y: -122}
+        - {x: -48.000008, y: -127.99999}
+        - {x: -11.000008, y: -134}
+        - {x: 7.9999924, y: -134}
+        - {x: 28.999992, y: -132}
+        - {x: 46.999992, y: -126.99999}
+        - {x: 57.999992, y: -122}
+        - {x: 71.99999, y: -107}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b1e48775645e589ae89dbb3dba955
+      internalID: 21300000
+      vertices:
+      - {x: 383, y: 356}
+      - {x: 369, y: 272}
+      - {x: 383, y: 319}
+      - {x: 368, y: 107}
+      - {x: 369, y: 242}
+      - {x: 367, y: 411}
+      - {x: 352, y: 426}
+      - {x: 338, y: 93}
+      - {x: 331, y: 432}
+      - {x: 297, y: 439}
+      - {x: 293, y: 88}
+      - {x: 269, y: 87}
+      - {x: 236, y: 87}
+      - {x: 211, y: 439}
+      - {x: 210, y: 89}
+      - {x: 164, y: 97}
+      - {x: 153, y: 424}
+      - {x: 144, y: 108}
+      - {x: 143, y: 243}
+      - {x: 142, y: 271}
+      - {x: 141, y: 404}
+      - {x: 135, y: 379}
+      - {x: 129, y: 350}
+      - {x: 129, y: 324}
+      - {x: 383, y: 182}
+      - {x: 372, y: 113}
+      - {x: 383, y: 131}
+      - {x: 131, y: 126}
+      - {x: 129, y: 185}
+      - {x: 129, y: 137}
+      indices: 1d0000001c0000001b000000120000001b0000001c000000110000001b000000120000000300000004000000190000001800000019000000040000001a00000019000000180000001700000016000000130000001500000013000000160000001400000013000000150000001000000013000000140000001200000013000000100000001100000012000000100000000f00000011000000100000000d0000000f000000100000000e0000000f0000000d0000000c0000000e0000000d000000090000000c0000000d0000000b0000000c000000090000000a0000000b00000009000000070000000a00000009000000080000000700000009000000060000000700000008000000030000000700000006000000050000000300000006000000010000000300000005000000000000000100000005000000040000000300000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CarShadowProjector: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
