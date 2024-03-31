@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7decf71d60cb2fe438b4d9a0a160a517, type: 3}
+  m_Name: SceneLoaderManager
+  m_EditorClassIdentifier: 
+  loadingScreenMode: 0
+  sceneList:
+  - SceneName: MainMenu
+    SceneAsset: {fileID: 102900000, guid: b5c8b18d3a87bb34f85ad45fa623911d, type: 3}
+    DisplayName: MainMenu
+    Description: Mode Balapan menangkan balapan dan dapatkan uang ! Koleksi Uang
+      sebanyak-banyaknya
+    SkipType: 2
+    LoadingType: 1
+    FakeLoadingTime: 0.6
+    Backgrounds: []
+  - SceneName: Simple
+    SceneAsset: {fileID: 102900000, guid: 7aadb93ad643ae648ba05d125a0e02b5, type: 3}
+    DisplayName: Free Ride
+    Description: Free Ride jalan-jalan keliling di Kota Lembang
+    SkipType: 1
+    LoadingType: 0
+    FakeLoadingTime: 19.17
+    Backgrounds: []
+  - SceneName: LevelMenu
+    SceneAsset: {fileID: 102900000, guid: 0797f69ba2b3f8f4ab363b1d015a063d, type: 3}
+    DisplayName: Level Menu
+    Description: Kumpulin Bounty untuk unlock Map baru
+    SkipType: 3
+    LoadingType: 1
+    FakeLoadingTime: 2.3
+    Backgrounds: []
+  - SceneName: Shop2
+    SceneAsset: {fileID: 102900000, guid: f1364e03d049ada44a94a3bcfc047a02, type: 3}
+    DisplayName: Shop2
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: InGame
+    SceneAsset: {fileID: 102900000, guid: e4acf6bf68b2f5a408915f7cf3925bf3, type: 3}
+    DisplayName: InGame
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: PunBasics-Launcher
+    SceneAsset: {fileID: 102900000, guid: bff77b01b50254edbb6edeeaba5ae8b3, type: 3}
+    DisplayName: PunBasics-Launcher
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: PunBasics-Room for 1
+    SceneAsset: {fileID: 102900000, guid: 9b8561c6e396849a5ba48c3eb9524049, type: 3}
+    DisplayName: PunBasics-Room for 1
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: PunBasics-Room for 2
+    SceneAsset: {fileID: 102900000, guid: 764428c63577f4580af4ce54ca9f4b1b, type: 3}
+    DisplayName: PunBasics-Room for 2
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: FreeRideOnline1
+    SceneAsset: {fileID: 102900000, guid: 116f5a3819c3fed4da737caf58e457d5, type: 3}
+    DisplayName: FreeRideOnline
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: Sirkuit_DRAG 1
+    SceneAsset: {fileID: 102900000, guid: cc48a658d7d89cf4d91c584329e4a4ba, type: 3}
+    DisplayName: FreeRideOnline
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: sirkuitDrag02
+    SceneAsset: {fileID: 102900000, guid: 210e9e8855c68a44e9f013c0747376d6, type: 3}
+    DisplayName: Race
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: Sirkuit_DRAG 3
+    SceneAsset: {fileID: 102900000, guid: 6570b2417aadc1b46b16d1133500b1d8, type: 3}
+    DisplayName: Race sentul
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: Sirkuit_DRAG 4
+    SceneAsset: {fileID: 102900000, guid: f765bd318a50fe84393cc81fe74585af, type: 3}
+    DisplayName: Race sentul
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: sirkuitDrag02
+    SceneAsset: {fileID: 102900000, guid: 2b8b2265bde7372469a523b6bbf39dc4, type: 3}
+    DisplayName: sirkuitDrag02
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: sirkuitDrag03
+    SceneAsset: {fileID: 102900000, guid: cea9273c3ee582a4ba974ea471ff982d, type: 3}
+    DisplayName: sirkuitDrag03
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: sirkuitDrag04
+    SceneAsset: {fileID: 102900000, guid: 27c7d7ec4e3a20a4d9927645d5a6585a, type: 3}
+    DisplayName: sirkuitDrag04
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: FreeRideOnline
+    SceneAsset: {fileID: 102900000, guid: 5ef2a5e1f54824b45b8d0e1a927358de, type: 3}
+    DisplayName: Simple online
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: simpleonline
+    SceneAsset: {fileID: 102900000, guid: fb95865576c14e8449a607aebcec06d1, type: 3}
+    DisplayName: simpleonline
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  - SceneName: sirkuitDrag01
+    SceneAsset: {fileID: 102900000, guid: f7e7e5cf01d827f4f8df1ba5580539d0, type: 3}
+    DisplayName: sirkuitDrag01
+    Description: 
+    SkipType: 3
+    LoadingType: 0
+    FakeLoadingTime: 2
+    Backgrounds: []
+  tipsList:
+  - Explore Map ada Easter Eggs
+  - Sering Balapan agar dapet uang
+  - Kumpulin Bounty untuk Unlock MAP
+  buildSettingsAsFallback: 1
+  useSynchronousAsFallback: 1
